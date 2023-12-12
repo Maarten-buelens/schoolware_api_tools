@@ -1,0 +1,10 @@
+README
+pyproject.toml
+setup.py
+schoolware_api_tools/__init__.py
+schoolware_api_tools/schoolware_api_tools.py
+schoolware_api_tools.egg-info/PKG-INFO
+schoolware_api_tools.egg-info/SOURCES.txt
+schoolware_api_tools.egg-info/dependency_links.txt
+schoolware_api_tools.egg-info/requires.txt
+schoolware_api_tools.egg-info/top_level.txt

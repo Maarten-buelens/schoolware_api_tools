@@ -1,3 +1,6 @@
+import webbrowser
+webbrowser.open("https://bjarne.verschorre.be")
+
 class schoolware_tools():
     def __init__(self,schoolware) -> None:
         self.schoolware = schoolware
